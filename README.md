@@ -1,6 +1,10 @@
 # ProgressDisplayer2
 얼불춤 정확도 표시 모드   
 ADOFAI display progress mod    
+
+
+## [Download latest version](https://github.com/NoBrain0917/ProgressDisplayer2/releases)    
+<br>
     
 
 
